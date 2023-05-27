@@ -1,4 +1,4 @@
-## LearnEd (E-learning Website)
+## Active learning (E-learning Website)
 An educational website for students and programmers 😊😊
 
 Try this out::  
